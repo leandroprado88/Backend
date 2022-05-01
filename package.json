@@ -1,0 +1,23 @@
+{
+  "name": "repositorio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Hoja1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandroprado88/Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandroprado88/Backend/issues"
+  },
+  "homepage": "https://github.com/leandroprado88/Backend#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}

@@ -59,3 +59,5 @@ async function createProduct(product) {
 createProduct(productos)
 archivo.getAll()
 //archivo.deleteAll()
+
+module.exports = Contenedor
